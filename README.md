@@ -11,7 +11,7 @@
   <!-- ✨ Animated About -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=79C0FF&center=true&multiline=true&width=900&height=75&lines=🚀+2%2B+Years+Transforming+Data+into+Business+Intelligence;💡+Expert+in+Power+BI+%7C+SQL+%7C+Python+%7C+DAX;📊+Building+Dashboards+that+Drive+Strategic+Decisions" alt="About Me"/>
 
-  <!-- 🌈 Divider -->
+  <!--  Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="75%" style="margin: 25px 0; filter: hue-rotate(180deg) brightness(1.5);"/>
 
   <!-- 📖 Professional Summary -->
