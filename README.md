@@ -17,7 +17,7 @@
   <!-- 📖 Professional Summary -->
   <div style="background-color: #161B22; padding: 25px; border-radius: 10px; border-left: 5px solid #FF6B6B; margin: 20px 0;">
     <p style="color: #C9D1D9; font-size: 17px; line-height: 1.8; margin: 0;">
-      I'm a passionate <strong style="color: #FFB86C">Data Analyst and BI Developer</strong> with 2+ years of experience transforming complex data into actionable business intelligence at <strong style="color: #4ECDC4">NCR Corporation</strong>. My expertise lies in creating powerful data visualizations and dashboards that drive strategic decision-making and optimize business processes.
+      I'm a passionate <strong style="color: #FFB86C">Data Analyst and BI Developer</strong> with 3+ years of experience transforming complex data into actionable business intelligence at <strong style="color: #4ECDC4">NCR Corporation</strong>. My expertise lies in creating powerful data visualizations and dashboards that drive strategic decision-making and optimize business processes.
     </p>
   </div>
 
