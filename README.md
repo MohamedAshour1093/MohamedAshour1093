@@ -64,10 +64,6 @@
 
 <div align="center">
 
-  <a href="https://mohamedashour1093.github.io/My-Portfolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/mohamed-ashour-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
