@@ -37,7 +37,7 @@
 
 | Project | Domain | Tools | Link |
 |---------|--------|-------|------|
-| 🏦 Wisabi Bank ATM Analytics | Banking & Fintech | Power BI · SQL · Power Query | [View Project →](https://github.com/MohamedAshour1093/Wisabi-Bank-ATM-Transaction-Analytics) |
+| 🏦 Wisabi Bank ATM Analytics | Banking & Fintech | Power BI · SQL · Power Query | [View Project →](https://github.com/MohamedAshour1093/Wisabi-Bank-ATM-Transaction-) |
 | 💳 Bank Loan Report | Finance & Credit Risk | Power BI · SQL · DAX | [View Project →](https://github.com/MohamedAshour1093/Bank-Loan-Report) |
 
 </div>
