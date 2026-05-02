@@ -1,33 +1,29 @@
 <div align="center">
 
-<h2>Data Analyst | Banking & Fintech Domain | SQL · Power BI · Python</h2>
+<h2>Data Analyst | ATM Operations Analytics | SQL & Power BI  </h2>
 
-<p>3+ Years at NCR Corporation · Banking & ATM Technology Leader · Cairo, Egypt</p>
+<p>3+ Years at NCR Atleos · ATM & Banking Technology · Cairo, Egypt</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="75%"/>
 
 <div style="background-color: #161B22; padding: 25px; border-radius: 10px; border-left: 5px solid #FF6B6B; margin: 20px 0;">
   <p style="color: #C9D1D9; font-size: 17px; line-height: 1.8; margin: 0;">
-    Data Analyst with <strong style="color: #FFB86C">3+ years at NCR Corporation</strong> — a global ATM and banking technology leader — analyzing operational, transactional, and banking data across enterprise clients. Specialized in <strong style="color: #4ECDC4">banking & fintech analytics</strong> using SQL Server, Power BI, Python, and DAX to build dashboards that drive real business decisions.
+  Data Analyst with 3+ years of experience at NCR Atleos specializing in ATM operations and high-volume transactional data. Skilled in using SQL to extract, transform, and validate data, ensuring data quality across multiple sources.
+
+Experienced in analyzing ATM transaction patterns to identify peak demand, monitor performance, and support operational decision-making, with a focus on improving ATM utilization and operational efficiency.
   </p>
 </div>
 
 </div>
 
 ---
-
 ## 🔥 Core Competencies
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Power%20BI-FF6B6B?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/DAX-45B7D1?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-FFB86C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/ETL-00E5FF?style=for-the-badge&logo=apache-airflow&logoColor=black" alt="ETL"/>
-  <img src="https://img.shields.io/badge/Power%20Query-00D084?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
-
-</div>
+- SQL Server (CTEs, Window Functions, Data Validation)
+- Power BI (Data Modeling, DAX, Dashboard Development)
+- Data Cleaning & Transformation
+- Data Quality Assurance & Validation
+- ATM Operations & Transaction Analytics
 
 ---
 
@@ -35,10 +31,17 @@
 
 <div align="center">
 
-| Project | Domain | Tools | Link |
-|---------|--------|-------|------|
-| 🏦 Wisabi Bank ATM Analytics | Banking & Fintech | Power BI · SQL · Power Query | [View Project →](https://github.com/MohamedAshour1093/Wisabi-Bank-ATM-Transaction-) |
-| 💳 Bank Loan Report | Finance & Credit Risk | Power BI · SQL · DAX | [View Project →](https://github.com/MohamedAshour1093/Bank-Loan-Report) |
+
+
+
+### 🔹 ATM Transaction Analytics
+
+ATM operations analytics project focused on analyzing transaction behavior, identifying peak demand patterns, and supporting data-driven operational decisions.
+
+🔗 https://github.com/MohamedAshour1093/Wisabi-Bank-ATM-Transaction-
+
+- Built using SQL (data preparation & validation) and Power BI for visualization
+
 
 </div>
 
@@ -48,13 +51,15 @@
 
 <div align="center">
 
+## 📊 What My Analysis Has Delivered
+
 | Metric | Result |
-|--------|--------|
-| 🏦 ATM transactions analyzed | 3.2M+ across 5 regions |
-| 💳 Loan portfolio assessed | $435.8M across 38.6K applications |
-| ⏱️ Reporting time reduced | 40+ hours saved monthly at NCR |
-| 📊 Dashboards built | 2 end-to-end BI solutions |
-| 🔍 Domain focus | Banking · Fintech · ATM Operations |
+|------|--------|
+| 🏦 ATM transactions analyzed | **2.1M+ across 5 regions** |
+| 📈 Dashboards built | 2 end-to-end BI solutions |
+| 🔍 Data validation applied | Ensured consistency across multiple datasets |
+| ⚙️ Reporting efficiency | Improved through automated data preparation and reusable SQL queries |
+| 🏧 Domain focus | ATM Operations & Transaction Analytics |
 
 </div>
 
