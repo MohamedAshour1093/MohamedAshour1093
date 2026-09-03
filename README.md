@@ -73,7 +73,7 @@ ATM operations analytics project focused on analyzing transaction behavior, iden
     <img src="https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:mohamedashour1093@gmail.com">
+  <a href="mailto:mohamedashour0910@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-45B7D1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
